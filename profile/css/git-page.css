@@ -1,0 +1,51 @@
+.git-avatar-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.git-avatar span {
+  font-size: 17px;
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+.git-repo {
+  border: 1px solid rgb(207, 207, 207);
+  border-radius: 8px;
+}
+
+.git-repo a {
+  color: rgb(0 114 255) !important;
+}
+
+.git-repo-name {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.bg-git {
+  border-radius: 100rem !important;
+  border: 1px solid rgb(207, 207, 207) !important;
+  font-weight: 500 !important;
+}
+
+.repo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.git-desc,
+.language-name {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.language-color {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: #e34c26;
+  border-radius: 100rem;
+}

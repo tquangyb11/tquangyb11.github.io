@@ -1,0 +1,25 @@
+.dark-mode .profile,
+.dark-mode .slick-dots button,
+.dark-mode .slick-dots .slick-active button {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.dark-mode .slick-dots li:before,
+.dark-mode .dark-switch:before,
+.dark-mode .dark-switch:after,
+.dark-mode .play-btn:before,
+.dark-mode .play-btn:after {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.dark-mode .dark-switch:before {
+  content: "\f185";
+}
+
+.dark-mode .dark-switch:after {
+  content: "Light";
+}
+
+.dark-mode .search-input {
+  background-color: rgba(0, 0, 0, 0.2);
+}
