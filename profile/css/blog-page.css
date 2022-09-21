@@ -5,23 +5,22 @@
 
 .blog-header .right {
   position: relative;
-  flex: 1;
-}
+  flex: 1;}
 
 .blog-header .left {
-  padding-top: 2px;
-  flex: 1;
+  padding-top: 0px;
+  flex:2;
 }
 
 .search-input {
-  color: rgb(255 255 255);
+  color: rgb(255, 255, 255);
   width: 100%;
   border: 0;
   outline: 0;
-  border-radius: 6px;
-  background-color: rgba(255, 255, 255, 0.2);
-  margin: 0 0 12px;
-  padding: 4px 10px 4px 30px;
+  border-radius: 8px;
+  background-color: rgba(210, 170, 170, 0.2);
+  margin: 0 0 0px;
+  padding: 4px 0px 4px 28px;
 }
 
 .search-icon {

@@ -53,12 +53,12 @@
 /*anh bai hat*/
 .cover {
     background: transparent url(data/cover1.jpg) no-repeat scroll center top;
-    border-radius: 17%;
+    border-radius: 25%;
     height: 94px;
     left: 17px;
     position: absolute;
     top: 24px;
-    width: 99px;
+    width: 100px;
 }
 /*icon next  pau*/
 .controls {
@@ -160,7 +160,7 @@
     position: fixed;
     width: 301px;
     z-index: 1;
-    top: 313px;
+    top: 298px;
 }
 .playlist li {
     color: #ffffff;
@@ -194,6 +194,13 @@ header a, a:visited {
 .ima {
     max-width: 50px;
     height: auto;
+    }
+    .bogoc{ 
+            border-bottom-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+
     }
 /*Thats all. I hope you enjoyed it.
 Thanks :)*/
