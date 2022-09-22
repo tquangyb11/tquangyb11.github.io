@@ -153,13 +153,13 @@
     width: 13px;
 }
 /*danh sach*/
-.playlist {
+.playlist{
     background: rgba(198, 198, 170, 0.3);
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 11px 15px 1px 15px;
     list-style-type: none;
     margin: -10px 0 0 2px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
     position: fixed;
     width: 301px;
     z-index: 1;
@@ -213,13 +213,22 @@ header a, a:visited {
                  border-radius: 30px;
                  cursor: pointer;
                  height: 25px;
-                 left: 186px;
+                 left: 18px;
                  position: absolute ;
-                 top: 113px;
-                 width: 70px;                 
-
+                 top: 33px;
+                 width: 57px;                 
                 }
+/**************thanh quận list*******************************/
    .button9:hover {  background-color: rgb(186, 21, 76);  color: rgb(255, 255, 255);}
+   
+   div.scrollbar{
+    height:290px;
+    overflow-x:hidden;
+    overflow-y:auto;
+   
+
+/**************thanh quận list*******************************/
+   
 /***************************************************************/
 /*Thats all. I hope you enjoyed it.
 Thanks :)*/
