@@ -12,7 +12,7 @@
 .player {
     background: rgba(0, 0, 0, 0.3);
     border-radius: 15px 15px 15px 15px;
-    height: 160px;
+    height: 145px;
     position: relative;
     width: 302px;
     z-index: 2;
@@ -161,7 +161,7 @@
     position: fixed;
     width: 301px;
     z-index: 1;
-    top: 298px;
+    top: 283px;
 }
 .playlist li {
     color: #ffffff;

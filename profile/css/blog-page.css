@@ -1,13 +1,23 @@
 .blog-header {
   display: flex;
   justify-content: space-between;
+}.blog-header2 {
+  display: flex;
+  justify-content: space-between;
 }
-
 .blog-header .right {
   position: relative;
   flex: 2;}
 
+.blog-header2 .right {
+    position: relative;
+    flex: 1.2;}
+
 .blog-header .left {
+  padding-top: 0px;
+  flex:2;
+}
+.blog-header2 .left {
   padding-top: 0px;
   flex:2;
 }
