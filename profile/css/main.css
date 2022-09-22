@@ -288,15 +288,23 @@ i {
 .nen {
   background-color: aliceblue;
 }
+/* cùng 1 dòng */
+.gap{
+  column-count: 2;
+  column-gap: 1;
+  margin-left: px; 
+}
 
 .pay1 {
-  column-count: 2;
-  column-gap: 9px;
-  max-width: 230px;
+  max-width: 123px;
   height: auto;
   display: block;
   margin-left: auto; 
   margin-right: auto;
+  }
+  .pay1:hover{
+    
+  max-width: 133px;
   }
 
 .pay2 {
@@ -306,6 +314,9 @@ i {
     margin-right: auto;
     margin-top: 10px;
     }
+  .pay2:hover{
+    max-width: 130px;
+  }
     /*pup up
 .dialog-body{
       max-width: 400px;
