@@ -288,3 +288,46 @@ i {
 .nen {
   background-color: aliceblue;
 }
+
+.pay1 {
+  column-count: 2;
+  column-gap: 9px;
+  max-width: 230px;
+  height: auto;
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+  }
+
+.pay2 {
+    max-width: 120px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 10px;
+    }
+    /*pup up
+.dialog-body{
+      max-width: 400px;
+      position: relative;
+      padding: 16px;
+      background-color: #fff;
+    }
+.dialog{
+position: fixed;
+top: 0;
+right: 0;
+left: 0;
+z-index: 10;
+display: flex;
+align-items: center;
+justify-content: center;
+display: none;
+}
+.dialog:target {
+  visibility: visible;
+}
+
+.overlay{
+  background-color: rgba(36, 36, 36, 0.6);
+} */
